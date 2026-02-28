@@ -17,7 +17,7 @@ To address this limitation, we propose VLA with Explicit Learning from Failures 
 
 ## Overview
 <div align="center">
-<img src="assets/mainv4.png" width="1000">
+<img src="assets/main4.png" width="1000">
 </div>
 
 ## News
