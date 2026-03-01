@@ -31,6 +31,10 @@ To address this limitation, we propose VLA with Explicit Learning from Failures 
 - [ ] ELF-VLA Training Code
 - [ ] Training Dataset
 
+## Acknowledgements
+
+We borrowed code from [NAVSIM](https://github.com/autonomousvision/navsim), [ms-swift](https://github.com/modelscope/ms-swift). Thanks for their contribution to the community.
+
 
 ## Citation
 If this work is helpful for your research, please consider citing:
