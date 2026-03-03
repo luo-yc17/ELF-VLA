@@ -7,7 +7,7 @@ Yuechen Luo<sup>1\*</sup>, Qimao Chen<sup>1\*</sup>, Fang Li<sup>2\*</sup>, Shao
 
 (\*) Equal contribution. (‡) Project leader. (✉) Corresponding author.
 
-<a href="https://arxiv.org/"><img src='https://img.shields.io/badge/arXiv-ELF-VLA-red' alt='Paper PDF'></a>
+<a href="[https://arxiv.org](https://arxiv.org/pdf/2603.01928)/"><img src='https://img.shields.io/badge/arXiv-ELF-VLA-red' alt='Paper PDF'></a>
 </div>
 
 ## Abstract
