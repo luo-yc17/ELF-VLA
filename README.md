@@ -40,10 +40,10 @@ We borrowed code from [NAVSIM](https://github.com/autonomousvision/navsim), [ms-
 If this work is helpful for your research, please consider citing:
 
 ```
-@inproceedings{x,
+@article{luo2026unleashing,
   title={Unleashing VLA Potentials in Autonomous Driving via Explicit Learning from Failures},
-  author={X},
-  booktitle={X},
+  author={Luo, Yuechen and Chen, Qimao and Li, Fang and Xu, Shaoqing and Liu, Jaxin and Song, Ziying and Yang, Zhi-xin and Wen, Fuxi},
+  journal={arXiv preprint arXiv:2603.01063},
   year={2026}
 }
 ```
